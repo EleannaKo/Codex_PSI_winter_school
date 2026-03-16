@@ -1,0 +1,14 @@
+omega_b        \Omega_b
+omega_cdm      \Omega_{cdm}
+H0             H_0
+w0_fld         w_0
+wa_fld         w_a
+dM_PP          \Delta M_{\rm PP}
+dM_U3          \Delta M_{\rm U3}
+dM_DES         \Delta M_{\rm DES}
+r_corr         r
+s_PP           s_{\rm PP}
+s_U3           s_{\rm U3}
+s_DES          s_{\rm DES}
+h              h
+Omega_m        \Omega_m
